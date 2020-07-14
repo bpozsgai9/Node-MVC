@@ -2,4 +2,4 @@
 Express.js gyakorlás<br />
 Frontend: Ejs<br />
 Backend: Express.js<br />
-Databas: MongoDb
+Database: MongoDb
